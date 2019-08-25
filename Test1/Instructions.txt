@@ -1,0 +1,5 @@
+Instructions:
+
+Create an angular project with components which replicate the functionality of the Show.html and Tabs.html.  (You don't need to replicate the CSS styling so you can use a standard CSS)
+
+Feel free to use any angular libraries you like e.g. https://material.angular.io/ to create the components of the page.

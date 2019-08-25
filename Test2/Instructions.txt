@@ -1,0 +1,5 @@
+Instructions:
+
+Make the User Story panel change to “edit mode” when the “Update a User Story” button is clicked.  On save the data from the form should be saved (in memory) and displayed back to the user.
+
+Suggestion:  Create a "mock" angular service to provide data to the "edit mode" of the User Story Panel and save the data in memory.

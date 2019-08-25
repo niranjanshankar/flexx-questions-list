@@ -1,0 +1,9 @@
+Instructions:
+
+Create a component in angular to display a list of "Resources" as illustrated in the Resources.html
+
+Add a button to the component to collapse/expand the list.
+- When the left nav is expanded the full names display as they do in the original html
+- When the left nav is collapsed just the initial should be displayed
+
+Additional Credit: When the collapse/expand button is clicked animate the transition so that the menu screens and the content area grows smoothly.

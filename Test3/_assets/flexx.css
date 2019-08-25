@@ -1,0 +1,145 @@
+.panel-no-border {
+    border: 0;
+    box-shadow: 0 0 0 0;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.table-fixed {
+    table-layout: fixed;
+}
+
+.table-fixed td.overflow {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.input-group[class*="col-"] {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+tr.rotate-text th {
+    height: 80px;
+}
+
+tr.rotate-text th div.small {
+    transform: rotate(-70deg);
+    transform-origin: right, top;
+    -ms-transform: rotate(-70deg);
+    -ms-transform-origin: right, top;
+    -webkit-transform: rotate(-70deg);
+    -webkit-transform-origin: right, top;
+    text-align: center;
+    position: relative;
+    top: -25px;
+    width: 80px;
+
+}
+
+span.badge-effort-status {
+    background-color: #d3d3d3;
+    color: #000000;
+    cursor: pointer;
+    font-size: 110%;
+}
+
+span.badge-effort-status-past {
+    color: #000000;
+    background-color: #808080;
+    cursor: pointer;
+}
+
+span.badge-effort-status-missing {
+    color: #ff3333;
+    background-color: #808080;
+    cursor: pointer;
+}
+
+span.badge-effort-status-CO {
+    background-color: #5555ff;
+}
+
+span.badge-effort-status-VL {
+    background-color: #55ff55;
+}
+
+span.badge-effort-status-QL {
+    background-color: #ffaa33;
+}
+
+span.badge-effort-status-PO {
+    background-color: #ffff55;
+}
+
+span.badge-effort-total {
+    font-size: 110%;
+}
+
+span.badge-effort-total-none {
+    background-color: #808080;
+}
+
+span.badge-effort-total-acceptable {
+    background-color: #55ff55;
+}
+
+span.badge-effort-total-over {
+    background-color: #ff3333;
+}
+
+span.badge-effort-total-under {
+    background-color: #ffaa33;
+}
+
+span.label-skill {
+    color: #333333;
+    font-weight: 500;
+}
+
+span.label-skill-advanced {
+    background-color: #55ff55;
+}
+
+span.label-skill-adept {
+    background-color: #ffaa33;
+}
+
+span.label-skill-newbie {
+    background-color: #ffff55;
+}
+
+table thead th.table-heading-backward {
+    padding: 0;
+    text-align: right;
+    vertical-align: middle;
+    width: 20px;
+}
+
+table thead th.table-heading-forward {
+    padding: 0;
+    text-align: left;
+    vertical-align: middle;
+    width: 20px;
+}
+
+div.label-group {
+    padding: 10px;
+}
+
+div.panel-heading div.btn-group.pull-left {
+    padding-right: 10px;
+}
+
+span.icon-fixed-width {
+    display: inline-block;
+    padding-right: 0.285714em;
+    text-align: center;
+    width: 1.14286em;
+}
